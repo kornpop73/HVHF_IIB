@@ -1,5 +1,8 @@
 # HVHF_IIB
- High Voltage High Frequency Amplifier for capacitive loads up to 100pF
+HVHF IIB
+* Single-ended 65Vpp, 5ns amplifier with multiple output stages capable of driving capacitive loads up to 100pF. 
+* This design is based on the circuit described in the 2005 Paper by Holger Muller with the title"Fast high–voltage amplifiers for driving electro-optic modulators"
+* A link to the original paper can be found at the bottom of this page
 # Beagle Routing Board V0.1
 ![Alt text](https://github.com/kornpop73/HVHF_IIB/blob/01/Documentation/Images/IIB_Schematic.jpg "Mueller Schematic")
 ## Repository Contents
@@ -10,5 +13,5 @@
 ## Documentation
 Copies of documentation are also saved in this repository
 
-* **[Test Report](https://docs.google.com/document/d/1mhgs8LhWTE7gB73-N2RG-cP2NuqwcQJ4yc4jECEzomg/edit#heading=h.cgog3ue157zv)** - Test results for Beagle Routing Board V0.1
+* **[Test Report](https://github.com/kornpop73/HVHF_IIB/blob/01/Documentation/Schematic%20Diagrams/Muller_Paper.pdf)** - 
 * **[Bill of Materials (Drive)](https://github.com/kornpop73/HVHF_IIB/blob/01/Production/BOM)** - BOM in Google Drive

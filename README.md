@@ -13,4 +13,4 @@
 Copies of documentation are also saved in this repository
 
 * **[Sources](https://github.com/kornpop73/HVHF_IIB/blob/01/Documentation/Schematic%20Diagrams/Müller_Paper.pdf)** - Holger Müller,'Fast High-Voltage Amplifiers for Driving Electro-Optic Modulators'
-* **[Bill of Materials (Drive)](https://github.com/kornpop73/HVHF_IIB/blob/01/Production/BOM)** 
+* **[Bill of Materials](https://github.com/kornpop73/HVHF_IIB/blob/01/Production/BOM)** 

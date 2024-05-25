@@ -2,7 +2,7 @@
 * Single-ended 65Vpp, 5ns amplifier with multiple output stages capable of driving capacitive loads up to 100pF. 
 * This design is based on the circuit described in the 2005 paper by Holger Müller titled 'Fast High-Voltage Amplifiers for Driving Electro-Optic Modulators'.
 * A link to the original paper can be found at the bottom of this page.
-# Beagle Routing Board V0.1
+# High Voltage High Frequency IIB
 ![Alt text](https://github.com/kornpop73/HVHF_IIB/blob/01/Documentation/Images/IIB_Schematic.jpg "Mueller Schematic")
 ## Repository Contents
 

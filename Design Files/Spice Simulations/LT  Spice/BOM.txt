@@ -1,0 +1,54 @@
+--- Bill of Materials ---
+
+Ref.	Mfg.	Part No.	Description
+C1	--	--	capacitor, 470pF, 10V
+C2	--	--	capacitor, 1µF, 10V
+C3	--	--	capacitor, 100nF, 5V
+C4	--	--	capacitor, 10pF, 10V
+C5	--	--	capacitor, 100µF, 10V
+C6	--	--	capacitor, 100nF, 200V
+C7	--	--	capacitor, 25pF
+C8	--	--	capacitor, 25pF
+C9	--	--	capacitor, 25pF
+C10	--	--	capacitor, 25pF
+C11	--	--	capacitor, 100nF, 10V
+C12	--	--	capacitor, 10µF, 200V
+D1	OnSemi	1N4148	diode
+D2	OnSemi	1N4148	diode
+Q1	--	BFT92	bipolar transistor
+Q2	--	BFP196	bipolar transistor
+R1	--	--	resistor, 330, .125W%
+R2	--	--	resistor, 10K, .125W
+R3	--	--	resistor, 47, .125W
+R4	--	--	resistor, 51, .125W
+R5	--	--	resistor, 10, .125W
+R6	--	--	resistor, 160, .5W
+R7	--	--	resistor, 51, .125W
+R8	--	--	resistor, 330, .125W
+R9	--	--	resistor, 1.6K, 1W
+R10	--	--	resistor, 1.6K, 1W
+R11	--	--	resistor, 360
+R12	--	--	resistor, 47, 5W
+R13	--	--	resistor, 47, 5W
+R14	--	--	resistor, 22
+R15	--	--	resistor, 100, .5W
+R16	--	--	resistor, 50, .5W
+R17	--	--	resistor, 47, .125W
+R18	--	--	resistor, 47, .125W
+R19	--	--	resistor, 47, .125W
+R20	--	--	resistor, 47, 5W
+R21	--	--	resistor, 47, 5W
+R22	--	--	resistor, 47, 5W
+R23	--	--	resistor, 10, .125W
+T1	--	NPN	bipolar transistor
+T2	--	NPN	bipolar transistor
+T3	--	NPN	bipolar transistor
+T4	--	PNP	bipolar transistor
+T5	--	NPN	bipolar transistor
+T6	--	NPN	bipolar transistor
+T7	--	NPN	bipolar transistor
+T8	--	PNP	bipolar transistor
+T9	--	NPN	bipolar transistor
+T10	--	PNP	bipolar transistor
+T11	--	PNP	bipolar transistor
+T12	--	PNP	bipolar transistor

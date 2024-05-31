@@ -1,0 +1,102 @@
+(footprint "TO126AV" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>Molded Package</b><p>grid 2.3 mm")
+  (attr through_hole)
+  (fp_text reference "REF**" (at -0.787545 3.912315) (layer "F.SilkS")
+      (effects (font (size 1.000181 1.000181) (thickness 0.15)))
+    (tstamp 0092028c-87bc-441b-bf18-ea1e63875d94)
+  )
+  (fp_text value "TO126AV" (at 0.45793 5.69855) (layer "F.Fab")
+      (effects (font (size 1.001575 1.001575) (thickness 0.15)))
+    (tstamp 4ff236d0-a088-49f4-9cc4-dc3876a78dc5)
+  )
+  (fp_line (start -3.937 0.127) (end -3.937 1.27)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 89542898-0944-41a2-95fe-13ff3651d5f1))
+  (fp_line (start -3.937 1.27) (end -3.683 2.794)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 7990aefc-5d15-48a4-b676-2dbc0735a8c5))
+  (fp_line (start -3.683 2.794) (end -2.794 2.794)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 91d58ceb-d412-4788-9331-799594a0e809))
+  (fp_line (start 2.794 2.794) (end 3.683 2.794)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 838c5a49-432d-440e-9921-c42e7665ea20))
+  (fp_line (start 3.683 2.794) (end 3.937 1.27)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp fe94e005-b97c-49a2-b789-cf78a826846b))
+  (fp_line (start 3.937 1.27) (end 3.937 0.127)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp aa4a6fa8-3622-44d2-a4c7-ce37fa224707))
+  (fp_poly
+    (pts
+      (xy -3.93727 0)
+      (xy -3.175 0)
+      (xy -3.175 0.381026)
+      (xy -3.93727 0.381026)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 981cfec1-6857-41f1-8a02-35a399ccb950))
+  (fp_poly
+    (pts
+      (xy -1.39821 0)
+      (xy -0.889 0)
+      (xy -0.889 0.381331)
+      (xy -1.39821 0.381331)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6145d0da-4fca-4c6e-b3d6-6f6d811d53ed))
+  (fp_poly
+    (pts
+      (xy 0.890101 0)
+      (xy 1.397 0)
+      (xy 1.397 0.381472)
+      (xy 0.890101 0.381472)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 7bb2de86-0c08-421c-988c-e27d24770dfb))
+  (fp_poly
+    (pts
+      (xy 3.17722 0)
+      (xy 3.937 0)
+      (xy 3.937 0.381266)
+      (xy 3.17722 0.381266)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 00ed55f3-49a0-49fa-b2a2-6b16b3eb5a5d))
+  (fp_line (start -2.794 2.794) (end -1.778 2.794)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 6d8953e9-13b5-42bc-b14e-ef1a63dc358f))
+  (fp_line (start -0.508 2.794) (end 0.508 2.794)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 39936539-a0fc-4eca-9938-8bbe12044adb))
+  (fp_line (start 1.778 2.794) (end 2.794 2.794)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 2ed2810e-262f-4a15-88aa-a96540615577))
+  (fp_circle (center -3.175 2.159) (end -2.7686 2.159)
+    (stroke (width 0.1524) (type solid)) (fill none) (layer "F.Fab") (tstamp 98bae0da-fbd6-43cc-a9bd-5167f257f8ba))
+  (fp_poly
+    (pts
+      (xy -3.17859 0)
+      (xy -1.397 0)
+      (xy -1.397 0.38143)
+      (xy -3.17859 0.38143)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.Fab") (tstamp 691cffc0-2558-4041-ba8f-198c4e1cc4d1))
+  (fp_poly
+    (pts
+      (xy -0.889497 0)
+      (xy 0.889 0)
+      (xy 0.889 0.381213)
+      (xy -0.889497 0.381213)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.Fab") (tstamp 419e7c99-b5b6-4c90-a61b-1c205afae20d))
+  (fp_poly
+    (pts
+      (xy 1.39967 0)
+      (xy 3.175 0)
+      (xy 3.175 0.381728)
+      (xy 1.39967 0.381728)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.Fab") (tstamp ed33aaec-e91d-4a30-9822-630721c2e095))
+  (pad "1" thru_hole oval (at -2.286 1.27) (size 1.524 3.048) (drill 1.016) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.102) (tstamp 41b552a8-f5de-428c-8a89-f0bf48c18e51))
+  (pad "2" thru_hole oval (at 0 1.27) (size 1.524 3.048) (drill 1.016) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.102) (tstamp 7d10b813-cecb-4b66-8bf8-9a283e22cc6e))
+  (pad "3" thru_hole oval (at 2.286 1.27) (size 1.524 3.048) (drill 1.016) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.102) (tstamp 36fdf68d-edf4-44a2-87e1-bd490578001f))
+)

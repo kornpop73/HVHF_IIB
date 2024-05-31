@@ -1,6 +1,13 @@
-22320512586414
+25754842115609
 Library
 ATS_PCB1025
+
+
+0
+0
+0
+Library
+Bard_Logo
 
 
 0
@@ -54,7 +61,7 @@ LINX_CONSMA002-L
 
 0
 5
-5
+2
 Library
 POT_3296W
 
@@ -83,6 +90,13 @@ PWWR0016
 0
 2
 2
+Library
+TO126AV
+<b>Molded Package</b><p>grid 2.3 mm
+
+0
+3
+3
 Library
 TRANS_BFP196E6327HTSA1_INF
 

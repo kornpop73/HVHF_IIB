@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Cu.gtl'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-In1_Cu.g2'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-In2_Cu.g3'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Cu.gbl'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Paste.gtp'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Paste.gbp'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Silkscreen.gto'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Mask.gts'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Mask.gbs'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-Edge_Cuts.gm1'.
+Info: Done.

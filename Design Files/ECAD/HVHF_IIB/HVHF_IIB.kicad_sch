@@ -2326,7 +2326,7 @@
     (uuid ff926169-e0ef-4ab2-a470-29b322cebe9a)
   )
 
-  (text "Notes:\ncheck emitter pins Q2: extra caps?\ncheck size for 47ohm out Rs\ncheck size R14\n\n\n"
+  (text "Notes:\ncheck emitter pins Q2: extra caps?\ncheck size for 47ohm out Rs\ncheck size wattage R14\nAdd test points\n\n"
     (at 24.13 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 94d6e6ca-7c1c-4378-9d15-a0e854d3ad95)

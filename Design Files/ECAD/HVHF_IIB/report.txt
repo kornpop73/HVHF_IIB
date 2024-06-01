@@ -1,0 +1,14 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Cu.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-In1_Cu.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-In2_Cu.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Cu.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Paste.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Paste.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-F_Mask.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-B_Mask.gbr'.
+Plotted to 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\kornelis\Desktop\Product Designs\HVHF_IIB\Design Files\ECAD\HVHF_IIB\HVHF_IIB-job.gbrjob'.
+Info: Done.

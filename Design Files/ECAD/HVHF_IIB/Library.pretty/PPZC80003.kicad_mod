@@ -28,4 +28,9 @@
   (pad "1" thru_hole circle (at -2.54 -2.54) (size 2.25 2.25) (drill 1.3) (layers "*.Cu" "*.Mask" "Dwgs.User") (tstamp ece58637-7b7a-4c05-a30e-ece35dc5fa89))
   (pad "1" thru_hole circle (at -2.54 2.54) (size 2.25 2.25) (drill 1.3) (layers "*.Cu" "*.Mask" "Dwgs.User") (tstamp 21b896a7-3b54-4dc4-aad8-b9d20d46bd8b))
   (pad "2" thru_hole circle (at 5.08 0) (size 2.25 2.25) (drill 1.3) (layers "*.Cu" "*.Mask" "Dwgs.User") (tstamp d3472689-e4d4-498a-8fcc-2c9819390c95))
+  (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/PPZC80003.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )

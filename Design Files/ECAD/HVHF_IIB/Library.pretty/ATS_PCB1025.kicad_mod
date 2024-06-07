@@ -22,4 +22,9 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp f840b667-3845-4cf7-a401-ccc24376dc55))
   (fp_rect (start -2 3.5) (end 2 5)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 25967cb7-e724-492e-9011-d7a0df06604f))
+  (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/ATS-PCB1025.step"
+    (offset (xyz 0 0 14.2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 180))
+  )
 )

@@ -1,4 +1,4 @@
-22250075707849610
+22255235677661506
 1_My_Custom_Library
 ATS-PCB1025
 
@@ -62258,12 +62258,33 @@ LINX_CONSMA002-L
 5
 2
 Library
+LOGO_L
+
+
+0
+0
+0
+Library
+LOGO_M
+
+
+0
+0
+0
+Library
+LOGO_S
+
+
+0
+0
+0
+Library
 PCB_EC1U
 
 
 0
-1
-1
+0
+0
 Library
 POT_3296W
 

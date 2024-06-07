@@ -111,6 +111,4 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp d4051993-fda9-4f8e-b3a3-a85368d04e77))
   (fp_arc (start 62.5 43) (mid 61.914214 44.414214) (end 60.5 45)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 38b6c83a-1e50-4a8c-93fa-04af9e161851))
-  (pad "1" smd roundrect (at -58.5 -36) (size 5 10) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
-    (thermal_bridge_angle 45) (tstamp 098e863e-71c3-4fb7-baad-997c9c739360))
 )

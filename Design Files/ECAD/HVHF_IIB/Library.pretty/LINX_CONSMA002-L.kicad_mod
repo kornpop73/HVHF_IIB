@@ -53,4 +53,9 @@
     (solder_mask_margin 0.102) (tstamp cce7d472-ea68-48ee-8feb-45c12f45ba13))
   (pad "S1" thru_hole circle (at 2.55 2.55) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 23d33f23-ea8e-4568-bdfe-947b4c4626b1))
+  (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/CONSMA002-L.step"
+    (offset (xyz 0 -6.25 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

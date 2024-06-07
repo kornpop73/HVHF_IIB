@@ -99,4 +99,9 @@
     (solder_mask_margin 0.102) (tstamp 7d10b813-cecb-4b66-8bf8-9a283e22cc6e))
   (pad "3" thru_hole oval (at 2.286 1.27) (size 1.524 3.048) (drill 1.016) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 36fdf68d-edf4-44a2-87e1-bd490578001f))
+  (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/T0-126.step"
+    (offset (xyz 0 -1.25 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

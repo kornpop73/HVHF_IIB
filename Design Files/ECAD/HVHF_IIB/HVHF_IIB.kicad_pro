@@ -173,12 +173,17 @@
       ],
       "track_widths": [
         0.0,
+        0.35,
         1.05
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         },
         {
           "diameter": 1.2,
@@ -479,7 +484,7 @@
       "Net-(C1-Pad1)": "sig",
       "Net-(D1-K)": "sig",
       "Net-(D2-A)": "sig",
-      "Net-(Q1-C)": "sig",
+      "Net-(Q1-E)": "sig",
       "Net-(Q2-B)": "sig",
       "Net-(Q2-E)": "sig",
       "Net-(R10-Pad2)": "sig",

@@ -87,7 +87,7 @@
   (pad "1" smd rect (at -0.9525 0.9652) (size 0.5588 1.4224) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a6483697-f203-4956-9a5d-af9b4b6fafb5))
   (pad "2" smd rect (at 0.9525 0.9652) (size 0.5588 1.4224) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 758177a5-0b91-4582-b3c7-258d703d2867))
   (pad "3" smd rect (at 0 -0.9652) (size 0.5588 1.4224) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da7c01b0-9b45-458f-b02c-476c69c54544))
-  (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/SOT23_INF.step"
+  (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/SOT-23_ONS.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

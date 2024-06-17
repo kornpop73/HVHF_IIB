@@ -71,9 +71,9 @@
   (fp_line (start 7.3787 2.387092) (end 7.3787 -12.040108)
     (stroke (width 0.0254) (type solid)) (layer "F.Fab") (tstamp 2e6c1f94-2ea1-4bb4-ac0e-41c536f55888))
   (pad "1" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 7f0899c9-50a8-4272-8c29-61d292644dc0))
+  (pad "2" thru_hole circle (at -5.08 -5.080109) (size 2.413 2.413) (drill 1.905) (layers "*.Cu" "*.Mask") (tstamp 36451c8f-f55c-49f7-a6e4-352c5fbf04f8))
   (pad "2" thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp f4106887-29ec-4595-9d32-7b28c4284a07))
-  (pad "3" thru_hole circle (at -5.08 -5.080109) (size 2.413 2.413) (drill 1.905) (layers "*.Cu" "*.Mask") (tstamp 36451c8f-f55c-49f7-a6e4-352c5fbf04f8))
-  (pad "4" thru_hole circle (at 5.08 -5.080109) (size 2.413 2.413) (drill 1.905) (layers "*.Cu" "*.Mask") (tstamp 87df712f-ae20-416c-adcc-ff505f5a6879))
+  (pad "2" thru_hole circle (at 5.08 -5.080109) (size 2.413 2.413) (drill 1.905) (layers "*.Cu" "*.Mask") (tstamp 87df712f-ae20-416c-adcc-ff505f5a6879))
   (model "C:/Users/kornelis/Desktop/Product Designs/HVHF_IIB/Design Files/MCAD/3D models/731375003.stp"
     (offset (xyz 0 33 6.9))
     (scale (xyz 1 1 1))

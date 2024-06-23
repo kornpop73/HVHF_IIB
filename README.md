@@ -3,7 +3,7 @@
 * This design is based on the circuit described in the 2005 paper by Holger Müller titled 'Fast High-Voltage Amplifiers for Driving Electro-Optic Modulators'.
 * A link to the original paper can be found at the bottom of this page.
 # High Voltage High Frequency IIB
-![Alt text](https://github.com/kornpop73/HVHF_IIB/blob/01/Documentation/Images/IIB_Schematic.jpg "Mueller Schematic")
+![Alt text](https://github.com/kornpop73/HVHF_IIB/blob/01/Documentation/Images/HVHF_PCB.png "HVHF PCB")
 ## Repository Contents
 
 * [**/Design Files**](https://github.com/kornpop73/HVHF_IIB/tree/01/Design%20Files) - Contains all ECAD and MCAD files for this board
